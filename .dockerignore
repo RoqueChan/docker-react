@@ -1,0 +1,10 @@
+# ignore .git and .cache folders
+Dockerfile.dev
+.dockerignore
+.gitignore
+README.md
+.git
+
+build
+node_modules
+
